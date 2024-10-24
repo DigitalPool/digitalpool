@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm AbdulAzeez Olawale Shobajo</h1>
-<h3 align="center">Doctoral Researcher in Sustainable Rural Development | Communication Designer | Digital Marketing Expert</h3>
+<h1 align="center">Hi 👋, I'm AbdulAzeez  Shoajo</h1>
+<h3 align="center">Web & Mobile Developer | Computer Programmer| Graphics & Motion Designer| Digital Marketing Expert</h3>
+<h3 align="center">Ph.D Researcher, BioResources and Technology</h3>
 
 - 🌱 I’m currently working on **biogas systems and renewable energy solutions**
 - 💬 Ask me about **graphic design, digital marketing, and sustainable development**
-- 📫 How to reach me: [abdulazeez@example.com](mailto:abdulazeez@example.com)
+- 📫 How to reach me: [digitalpoolng@gmail.com](mailto:digitalpoolng@gmail.com)
 
 ### Languages and Tools:
 <p align="center">
